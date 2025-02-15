@@ -1,0 +1,23 @@
+<resources>
+    /** For Login **/
+    <string name="logo">CourtFinder Logo</string>  <!-- Replace with appropriate description -->
+    <string name="courtfinder">CourtFinder</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="create_your_account">Create your Account.</string>
+    <string name="username_login">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">LOGIN</string>
+    <string name="login_with">Login with</string>
+    <string name="copyright_2025_sarabia_federe_inc">© Copyright 2025 Sarabia Federe Inc.</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+
+    /** For Sign Up **/
+    <string name="signup">Sign Up</string>
+    <string name="username_signup">Username</string>
+    <string name="password_signup">Password</string>
+    <string name="email_signup">Email</string>
+    <string name="confirm_password_signup">Confirm Password</string>
+    <string name="sign_up_with">Sign Up with</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- First layer: Transparent color with #4d6370 -->
+    <item android:drawable="@color/transparent1"/>
+
+    <!-- Second layer: Add the image with 10% transparency -->
+    <item>
+        <bitmap
+            android:src="@drawable/basketballcourt"
+            android:gravity="fill" />
+    </item>
+</layer-list>
